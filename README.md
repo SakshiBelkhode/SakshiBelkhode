@@ -4,7 +4,7 @@
 
 ### 🚀 Frontend Developer | React | Next.js | Tailwind CSS
 
-Hello there! 👋 I’m Devid Bisen, a frontend developer with a passion for crafting intuitive, high-performance web applications.  
+Hello there! 👋 I’m Sakshi Belkhode, a frontend developer with a passion for crafting intuitive, high-performance web applications.  
 I specialize in transforming ideas into sleek, user-friendly interfaces while ensuring seamless performance and accessibility.  
 
 With a deep understanding of **React, Next.js, and Tailwind CSS**, I love solving complex frontend challenges, optimizing user experiences, and staying up to date with modern web technologies. Whether it's building dynamic UI components, implementing efficient state management, or optimizing for performance, I strive for excellence in every line of code.  
