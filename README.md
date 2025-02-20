@@ -19,8 +19,8 @@ Beyond coding, I actively explore emerging frontend trends, contribute to open-s
 👯 Open to collaborating on **React & Next.js projects**  
 🌱 Currently learning **TypeScript & Advanced Next.js concepts**  
 💬 Ask me about **HTML, CSS, JavaScript, TypeScript, React, Next.js, and Tailwind CSS**  
-📫 How to reach me: **devidbisen84@gmail.com**  
-😄 Pronouns: **He/Him**  
+📫 How to reach me: **sakshibelkhode03@gmail.com**  
+😄 Pronouns: **She/Her**  
 
 ---
 
@@ -45,16 +45,13 @@ Beyond coding, I actively explore emerging frontend trends, contribute to open-s
 ### 📡 Connect With Me  
 
 <div align="center">
-<a href="https://linkedin.com/in/devid-bisen" target="_blank">
+<a href="linkedin.com/in/sakshi-belkhode-96262422b" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://github.com/DEVID19" target="_blank">
+<a href="https://github.com/SakshiBelkhode" target="_blank">
 <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<a href="https://twitter.com/devidbisen55" target="_blank">
-<img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-</a>  
-</div>
+
 
 ---
 
