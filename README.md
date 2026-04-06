@@ -15,7 +15,7 @@ Beyond coding, I actively explore emerging frontend trends, contribute to open-s
 
 ### 🔥 More About Me  
 
-🔭 Currently enhancing my expertise in **Frontend Development**  
+🔭 Currently enhancing my expertise in **Full Stack Development**  
 👯 Open to collaborating on **React & Next.js projects**  
 🌱 Currently learning **TypeScript & Advanced Next.js concepts**  
 💬 Ask me about **HTML, CSS, JavaScript, TypeScript, React, Next.js, and Tailwind CSS**  
