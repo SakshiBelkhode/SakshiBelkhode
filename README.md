@@ -2,7 +2,7 @@
 
 ---
 
-### 🚀 Frontend Developer | React | Next.js | Tailwind CSS
+### 🚀 Full Stack Developer | React | Next.js | Tailwind CSS
 
 Hello there! 👋 I’m Sakshi Belkhode, a frontend developer with a passion for crafting intuitive, high-performance web applications.  
 I specialize in transforming ideas into sleek, user-friendly interfaces while ensuring seamless performance and accessibility.  
